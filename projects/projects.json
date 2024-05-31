@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Googel Homepage Clone",
+    "desc": "Google homepage layout CSS for styling elements to match Google's design JavaScript for interactive features. Tech Stack: HTML, CSS, JS",
+    "image": "google",
+    "category": "android",
+    "links": {
+      "view": "https://subbudev.netlify.app/",
+      "code": "https://github.com/subbuk8977/Google_Homepage_Clone"
+    }
+  },
+  {
+    "name": "BuzzyByte - A Weather app",
+    "desc": "It is an application that simplifies the taks of creating a resume for individuals.Used technologies: HTML, CSS, React, API",
+    "image": "screenshot",
+    "category": "android",
+    "links": {
+      "view": "https://subbuk8977.github.io/buzzybyte/",
+      "code": "https://github.com/subbuk8977/buzzybyte"
+    }
+  },
+  {
+    "name": "TextUtils - A ",
+    "desc": "It is an application that simplifies the taks of coverting text to uppercase to lowercase and viceersa .Used technologies: HTML, CSS, React, JS",
+    "image": "text",
+    "category": "android",
+    "links": {
+      "view": "https://subbuk8977.github.io/Text_Utils/",
+      "code": "https://github.com/subbuk8977/Text_Utils"
+    }
+  }
+]
