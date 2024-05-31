@@ -3,7 +3,7 @@
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/subbaiahkv"> </a>
+&nbsp;&nbsp;[<a href="https://www.linkedin.com/in/subbaiahkv"> </a>]
 
 © 2024 Venkata Subbaiah
 
